@@ -6,12 +6,10 @@
   "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "serve": "latest"
+    "react-dom": "^18.2.0"
   },
   "scripts": {
-    "build": "parcel build",
-    "start": "serve"
+    "build": "parcel build"
     
   }
 }
